@@ -1,0 +1,36 @@
+questao-1
+
+a) 
+
+O valor do B é 20, O valor do A é 10 e o valor do B agora é 5.
+
+b)
+
+O valor do A é 10, o valor do B é 10, o valor do C é 10.
+
+c)
+
+O valor do A é 10, o valor do B é 20, o valor do C é 15.
+
+
+d) 
+
+O valor do C é 50
+O valor do B é 10 e o valor do C agora é 50
+O valor do A é 30
+O valor do B é 10
+O valor do C é 40
+
+
+e)
+
+O valor do A é 12
+O valor do A agora é 14 e o valor do B é 13
+
+
+f)
+
+O valor do Z é 1
+O valor do X é 5
+O valor do Y é 6
+O valor do Z é 1
